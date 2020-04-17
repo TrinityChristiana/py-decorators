@@ -6,11 +6,11 @@ This assignment is an individual exercise: [Directions here](https://github.com/
 ---
 
 ## Practice: Family Report with Decorators
-<!-- - [Code]() -->
+- [Code](https://github.com/TrinityTerry/py-decorators/blob/master/family_report/main.py)
 - [Directions](https://github.com/TrinityTerry/py-decorators/blob/master/directions/directions.md#practice-family-report-with-decorators)
 
 ## Practice: Michael's Mortuary
-<!-- - [Code]() -->
+- [Code](https://github.com/TrinityTerry/py-decorators/blob/master/mortuary/main.py#L1)
 - [Directions](https://github.com/TrinityTerry/py-decorators/blob/master/directions/directions.md#practice-michaels-mortuary)
 
 ---
