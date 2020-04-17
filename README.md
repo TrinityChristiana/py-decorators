@@ -5,6 +5,10 @@ Created: 04-17-20 | Modified:
 This assignment is an individual exercise: [Directions here](https://github.com/TrinityTerry/py-decorators/blob/master/directions/directions.md)
 ---
 
+## Practice: Family Report with Decorators
+<!-- - [Code]() -->
+- [Directions](https://github.com/TrinityTerry/py-decorators/blob/master/directions/directions.md#practice-family-report-with-decorators)
+
 ## Practice: Michael's Mortuary
 <!-- - [Code]() -->
 - [Directions](https://github.com/TrinityTerry/py-decorators/blob/master/directions/directions.md#practice-michaels-mortuary)
